@@ -1,0 +1,3 @@
+# ignore everything thats not a TeX or bib file
+!*.tex
+!*.bib
